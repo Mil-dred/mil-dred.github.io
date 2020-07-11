@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Mediator Features"
-date:   2014-11-30 14:34:25
-categories: mediator feature
+title:  "Primer post"
+date:   2020-07-11 14:34:25
+categories: general
 tags: featured
 image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
 ---
-#Mediator Formats and CSS features
+#Título del post
 
-Examples for different formats and css features
+Ejemplo de post
 
 #Header Formats
 #Header1
